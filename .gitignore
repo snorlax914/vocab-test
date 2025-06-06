@@ -1,22 +1,15 @@
-# Python 가상환경
 backend/venv/
 backend/__pycache__/
 backend/*.pyc
 
-# Flask-Migrate 마이그레이션(마이그레이션 스크립트는 커밋해도 되지만, 자동 생성 폴더 제외 시)
 backend/migrations/
 
-# 환경 변수 파일 (민감 정보)
 backend/.env
 backend/instance/config.py
 
-# IDE 설정 파일 등
 .vscode/
 .idea/
 *.swp
 
-# macOS 메타데이터
-.DS_Store
 
-# Windows 메타파일
 Thumbs.db

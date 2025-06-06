@@ -11,5 +11,4 @@ backend/instance/config.py
 .idea/
 *.swp
 
-
 Thumbs.db
